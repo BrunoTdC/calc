@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    background-color: black;
+    width: 266px;
+    height: 474px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.visor{
+    height: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+    color: white;
+    text-align: end;
+    line-height: 150px;
+}
+.div_4{
+    padding: 5px;
+}
+.div_4 button{
+    width: 60px;
+    height: 60px;
+    border-radius: 120px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.div_1{
+    padding: 5px;
+}
+.div_1 button{
+    width: 60px;
+    height: 60px;
+    border-radius: 120px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.botao0{
+    width: 120px !important;
+}
+.orange{
+    background-color: orange !important;
+}
+.cinza{
+    background-color: gray !important;
+}
+body{
+    background-color: rgb(43, 43, 43);
+}
